@@ -1,0 +1,90 @@
+.row-header{
+    padding: 0px auto;
+    margin: 0px auto;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+nav .navbar-brand{
+    font-family: 'Brush Script MT', cursive;
+}
+
+.dropdown-menu{
+    background-color: gray;
+}
+
+.footer{
+    background-color: #131313;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+    color: floralwhite;
+}
+
+.jumbotron{
+    padding: 10px 10px 10px 10px;
+    margin: 0px auto;
+    background-color: black;
+    color: floralwhite;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.address{
+    margin: 0px auto;
+    font-size: 80%;
+    color: #0F0F0F;
+}
+
+body{
+    padding: 0px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: #512da8;
+}
+
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.carousel{
+    background-color: #512da8;
+}
+
+.carousel-item{
+    height: 300px;
+}
+
+.carousel-item img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.modal-header{
+    background-color: #512da8;
+    color: floralwhite;
+}
+
+.modal-body{
+    background-color: #aa99c7;
+}
+
+.close{
+    color: floralwhite;
+}
+
+iframe{
+    background-color: gray;
+    height: 90%;
+    width: 100%;
+}
